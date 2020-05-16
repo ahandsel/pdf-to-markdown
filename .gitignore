@@ -6,3 +6,4 @@ images
 /build
 /dist
 /*.egg-info
+.DS_Store
